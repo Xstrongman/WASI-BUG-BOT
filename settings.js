@@ -10,16 +10,16 @@ global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
 global.ownernumber = '923347748038'  //creator number
-global.ownername = ' MR WASI ' //owner name
-global.botname = 'WASI TECH BUG BOT ' //name of the bot
+global.ownername = ' Mr Yu ' //owner name
+global.botname = 'YU TECH BUG BOT ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'WASI'
+global.author = 'Yu'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "WASI TECH"
+global.wm = "YU TECH"
 
 //theme link
 global.link = 'https://whatsapp.com'
